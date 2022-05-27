@@ -2,6 +2,10 @@
 
 Projeto criado para aplicando aprendizados de Vue.
 
+# Projeto
+
+Para ver o projeto em funcionamento, acesse: [VueDex](https://vuedex.vercel.app/)
+
 ## Aprendizados
 
 - Componentização
