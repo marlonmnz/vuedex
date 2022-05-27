@@ -4,7 +4,7 @@ Projeto criado para aplicando aprendizados de Vue.
 
 # Projeto
 
-Para ver o projeto em funcionamento, acesse: [VueDex](https://vuedex.vercel.app/){:target="_blank"}
+Para ver o projeto em funcionamento, acesse: [VueDex](https://vuedex.vercel.app/)
 
 ## Aprendizados
 
@@ -18,7 +18,7 @@ Para ver o projeto em funcionamento, acesse: [VueDex](https://vuedex.vercel.app/
 - Vue3 + Vite
 - TailwindCSS
 - Axios para consumo de API
-- API utilizada: [PokéAPI](https://pokeapi.co/){:target="_blank"}
+- API utilizada: [PokéAPI](https://pokeapi.co/)
 
 
 ## Ferramentas necessárias para rodar o projeto
