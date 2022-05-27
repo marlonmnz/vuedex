@@ -6,14 +6,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Projeto criado para aplicando aprendizados de Vue.
 
-## Ferramentas
-
-- Vue3 + Vite
-- TailwindCSS
-- Axios para consumo de API
-- API utilizada: [PokéAPI](https://pokeapi.co/)
-
-
 ## Aprendizados
 
 - Componentização
@@ -21,15 +13,14 @@ Projeto criado para aplicando aprendizados de Vue.
 - Coonsumo de API utilizando o Axios
 
 
-## Screenshots
+## Ferramentas utilizadas no projeto
 
-![Imagem 1](https://github.com/marlonmnz/pictures/blob/master/vuedex.png?raw=true)
+- Vue3 + Vite
+- TailwindCSS
+- Axios para consumo de API
+- API utilizada: [PokéAPI](https://pokeapi.co/)
 
 
-![Imagem 2](https://github.com/marlonmnz/pictures/blob/master/vuedex2.png?raw=true)
-
-
-![Imagem 3](https://github.com/marlonmnz/pictures/blob/master/vuedex3.png?raw=true)
 ## Ferramentas necessárias para rodar o projeto
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
@@ -45,3 +36,13 @@ npm install
 ```
 npm run dev
 ```
+    
+## Screenshots
+
+![Imagem 1](https://github.com/marlonmnz/pictures/blob/master/vuedex.png?raw=true)
+
+
+![Imagem 2](https://github.com/marlonmnz/pictures/blob/master/vuedex2.png?raw=true)
+
+
+![Imagem 3](https://github.com/marlonmnz/pictures/blob/master/vuedex3.png?raw=true)
